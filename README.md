@@ -1,3 +1,4 @@
+Dev Full-Stack || Typescript || Node
 
 ![Eduardo Pimenta stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Pyment&show_icons=true&theme=transparent&locale=pt-br&title_color=ececec&text_color=acacac&icon_color=FFFF80&ring_color=FFFF80)
 

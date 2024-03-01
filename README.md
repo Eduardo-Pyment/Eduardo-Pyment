@@ -1,4 +1,4 @@
-![Eduardo Pimenta stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Pyment&show_icons=true&theme=transparent&locale=pt-br&title_color=ececec&text_color=acacac&icon_color=FFFF80&ring_color=FFFF80)
+![Eduardo Pimenta stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Pyment&show_icons=true&theme=transparent&locale=pt-br&title_color=777777&text_color=777777&icon_color=FFA010&ring_color=FFA010)
 
 ## Tech wall:
 
